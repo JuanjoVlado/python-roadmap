@@ -1,0 +1,1 @@
+{"tasks": [{"id": 1, "status": "in-progress", "title": "Crear lista"}, {"id": 2, "status": "todo", "title": "Agregar tareas"}, {"id": 3, "status": "todo", "title": "Actualizar tareas"}, {"id": 5, "status": "todo", "title": "No borrar esta tarea. La anterior, si."}, {"id": 6, "status": "in-progress", "title": "Listar tareas"}], "tasks_count": 5, "next_id": 7}
