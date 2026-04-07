@@ -2,6 +2,8 @@
 
 A simple command-line tool to manage your tasks efficiently.
 
+(A recommended project for the Backend Developer Roadmap at https://roadmap.sh/projects/task-tracker)
+
 ## Usage
 
 ```
